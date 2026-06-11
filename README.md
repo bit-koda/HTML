@@ -1,6 +1,6 @@
 # Resizable HTML Editor
 
-A **real-time, HTML editor** that allows users to write and preview HTML, CSS, and JavaScript code seamlessly. Perfect for web developers and learners to experiment with front-end code in a live environment.
+A **Real-time, HTML editor** that allows users to write and preview HTML, CSS, and JavaScript code seamlessly. Perfect for web developers and learners to experiment with front-end code in a live environment.
 
 ---
 
